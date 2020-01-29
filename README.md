@@ -5,7 +5,7 @@ This is a chatting program based on JavaFx. Users can communicate in one chat ro
 
 ### Screenshots
 
-<img src="screenshots/image1.png" alt="screen shot"/>
+<img src="screenshot/image1.png" alt="screen shot"/>
 
 
 ## Authors
